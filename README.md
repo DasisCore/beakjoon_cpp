@@ -1,5 +1,35 @@
 # 22-04-10부터 작성 시작! ✏️
 
+## 2022/04/13
+
+|                            난이도                            |                      번호                      |                       문제 이름                        |
+| :----------------------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |  [2439](https://www.acmicpc.net/problem/2439)  |  [별 찍기 - 2](https://www.acmicpc.net/problem/2439)   |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10871](https://www.acmicpc.net/problem/10871) | [X보다 작은 수](https://www.acmicpc.net/problem/10871) |
+
+
+
+## 2022/04/12
+
+|                            난이도                            |                      번호                      |                      문제 이름                      |
+| :----------------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |  [2742](https://www.acmicpc.net/problem/2742)  |   [기찍 N](https://www.acmicpc.net/problem/2742)    |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [11021](https://www.acmicpc.net/problem/11021) |  [A+B - 7](https://www.acmicpc.net/problem/11021)   |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [11022](https://www.acmicpc.net/problem/11022) |  [A+B - 8](https://www.acmicpc.net/problem/11022)   |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |  [2438](https://www.acmicpc.net/problem/2438)  | [별 찍기 - 1](https://www.acmicpc.net/problem/2438) |
+
+
+
+## 2022/04/11
+
+|                            난이도                            |                      번호                      |                     문제 이름                      |
+| :----------------------------------------------------------: | :--------------------------------------------: | :------------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |  [2739](https://www.acmicpc.net/problem/2739)  |   [구구단](https://www.acmicpc.net/problem/2739)   |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [10950](https://www.acmicpc.net/problem/10950) | [A + B - 3](https://www.acmicpc.net/problem/10950) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |  [2741](https://www.acmicpc.net/problem/2741)  |   [N 찍기](https://www.acmicpc.net/problem/2741)   |
+
+
+
 ## 2022/04/10
 
 |                            난이도                            |                      번호                      |                       문제 이름                        |
