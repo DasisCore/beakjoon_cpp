@@ -1,5 +1,14 @@
 # 22-04-10부터 작성 시작! ✏️
 
+## 2022/04/19
+
+|                            난이도                            |                     번호                     |                       문제 이름                       |
+| :----------------------------------------------------------: | :------------------------------------------: | :---------------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [8958](https://www.acmicpc.net/problem/8958) |    [OX퀴즈](https://www.acmicpc.net/problem/8958)     |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [4344](https://www.acmicpc.net/problem/4344) | [평균은 넘겠지](https://www.acmicpc.net/problem/4344) |
+
+
+
 ## 2022/04/18
 
 |                            난이도                            |                     번호                     |                   문제 이름                    |
