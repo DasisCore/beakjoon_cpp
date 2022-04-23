@@ -1,20 +1,26 @@
-#include <iostream>
+# include <iostream>
 using namespace std;
 
 int main(){
+    
+    char ch;
+    cin >> ch;
+    char buf[5] = {'A', 'B', 'A', 'A', 'Q' };
 
-    int a = 1;
-    int b = 35;
+    int flag = 0;
+    for (int i = 0; i < 5; i++){
+        if (buf[i] == ch)
+        flag = 1;
+        break;
+    }
+    
 
-    int temp;
-
-    temp = b;
-    b = a;
-    a = temp;
-
-    cout << a << endl;
-    cout << b << endl;
-
-
+    if (flag == 1){
+        cout << 'O';
+    }
+    else{
+        cout << 'X';
+    }
+    
     return 0;
 }
