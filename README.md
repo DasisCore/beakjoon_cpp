@@ -1,5 +1,16 @@
 # 22-04-10부터 작성 시작! ✏️
 
+## 2022/05/01
+
+|                            난이도                            |                      번호                      |                       문제 이름                        |
+| :----------------------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/1.svg"/> | [25083](https://www.acmicpc.net/problem/25083) |     [새싹](https://www.acmicpc.net/problem/25083)      |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [15596](https://www.acmicpc.net/problem/15596) | [정수 N개의 합](https://www.acmicpc.net/problem/15596) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |  [4673](https://www.acmicpc.net/problem/4673)  |   [셀프 넘버](https://www.acmicpc.net/problem/4673)    |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [1065](https://www.acmicpc.net/problem/1065)  |      [한수](https://www.acmicpc.net/problem/1065)      |
+
+
+
 ## 2022/04/23
 
 |                            난이도                            |                      번호                      |                        문제 이름                        |
