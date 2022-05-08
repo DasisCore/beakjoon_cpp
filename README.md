@@ -1,5 +1,15 @@
 # 22-04-10부터 작성 시작! ✏️
 
+## 2022/05/08
+
+|                            난이도                            |                      번호                      |                   문제 이름                   |
+| :----------------------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10828](https://www.acmicpc.net/problem/10828) | [스택](https://www.acmicpc.net/problem/10828) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [10773](https://www.acmicpc.net/problem/10773) | [제로](https://www.acmicpc.net/problem/10773) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [9012](https://www.acmicpc.net/problem/9012)  | [괄호](https://www.acmicpc.net/problem/9012)  |
+
+
+
 ## 2022/05/03
 
 |                            난이도                            |                     번호                     |                   문제 이름                    |
