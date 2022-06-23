@@ -18,6 +18,5 @@ int main() {
 
     cin >> a;
     recur(a);
-    
     return 0;
 }
