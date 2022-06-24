@@ -1,22 +1,33 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
-void recur(int cur) {
+// 规巩 眉农侩 vector
+vector<vector<int>> v(20);
 
-    if (cur == 7) {
-        return;
+void dfs(int now) {
+    for(int i = 0; i < v[now].size(); i++) {
+        int to = v[now][i];
+        cout << to;
+        dfs(to);
     }
-
-    cout << cur;
-
-    return recur(cur + 1);
 }
 
 int main() {
 
-    int a;
+    int n;
 
-    cin >> a;
-    recur(a);
+    cin >> n;
+
+    for(int i = 0; i < n - 1; i++) {
+        int a, b;
+        cin >> a >> b;
+        v[a].push_back(b);
+    }; // 牢立 府胶飘 积己
+
+    dfs(n);
+
+    int de = 1;
+    
     return 0;
 }
