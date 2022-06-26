@@ -13,6 +13,5 @@ int main() {
         cnt += n / x;
         x *= p; 
     }
-
     cout << cnt;
 }
