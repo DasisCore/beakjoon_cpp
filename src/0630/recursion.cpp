@@ -7,6 +7,7 @@ void recur(int n) {
     if(n == 1) {
         cout << fact;
         return;
+        
     }
     fact *= n;
     recur(n - 1);
