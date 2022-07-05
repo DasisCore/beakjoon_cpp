@@ -10,6 +10,7 @@ void recur(int n) {
         
     }
     fact *= n;
+    
     recur(n - 1);
 
 }
